@@ -1,5 +1,5 @@
 # ysoseiral-anycode
-cb1 cc2 cc3 cc4 cc10 …… any gadget chain that use Gadgets.createTemplatesImpl()
+cb1 cc2 cc3 cc4 cc10 …… any gadget chain that used Gadgets.createTemplatesImpl()
 ## building
 Requires Java 1.7+ and Maven 3.x+
 
